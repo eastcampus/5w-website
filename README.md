@@ -1,6 +1,6 @@
 5w-website
 ==========
 
-Website for 5west
+This is an amazing website named 5w-wbsite
 
 When cloning into locker, remember to name directory `web_scripts`
